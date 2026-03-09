@@ -1,24 +1,24 @@
 # Danial Afridi
 
-Hi! I’m **Danial Afridi** — a developer who enjoys building useful software and continuously learning new technologies.
+Hi! I'm **Danial Afridi** — a Junior Software Developer at **99technologies** who enjoys building useful software and continuously learning new technologies.
 
 ## About Me
+- 👨‍💼 **Job Title:** Junior Software Developer
+- 🏢 **Company:** 99technologies
 - 💻 Interested in: **Web Development**, **Backend Engineering**, and **Problem Solving**
-- 🌱 Currently learning: *add what you’re learning (e.g., React, Node.js, Python, AWS, etc.)*
 - 🤝 Open to: collaboration on meaningful open-source and real-world projects
 
 ## Skills
-**Languages:**  
-- *e.g., JavaScript, TypeScript, Python, Java, C++*
+**Frameworks / Libraries:**
+- Node.js
+- Express.js
+- Nest.js
 
-**Frameworks / Libraries:**  
-- *e.g., React, Next.js, Node.js, Express, Django*
-
-**Tools / Platforms:**  
-- *e.g., Git & GitHub, Docker, Linux, Firebase, AWS*
+**Databases:**
+- MongoDB
 
 ## Featured Projects
-Here are a few projects I’m proud of:
+Here are a few projects I'm proud of:
 
 - **Project Name 1** — one-line description  
   Repo: *link here* • Demo: *link here*
