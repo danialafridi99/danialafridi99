@@ -53,13 +53,15 @@ const danial = {
 
 > _Replace the placeholders below with your actual projects._
 
-### 📦 Project Name 1
-> _Brief one-liner describing what this project does and why it matters._
+### 📦 Hurcle.com
+> _Map-based social app with location posts and secure chats._
 
-[![Repo](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/iamdanialafridi)
-[![Demo](https://img.shields.io/badge/Live-Demo-a78bfa?style=flat-square&logo=vercel)](https://link-to-demo.com)
+Hurcle is a map-based social media platform that lets users share posts tied to real-world locations and explore what others are sharing nearby. Connect with friends through add and add-back features, discover local activity directly on the map, and communicate securely with end-to-end encrypted one-to-one and group chats — all in one interactive, location-driven experience.
 
-**Stack:** `Node.js` `Express.js` `MongoDB`
+[![Repo](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat-square&logo=github)](https://github.com/danialafridi1)
+[![Demo](https://img.shields.io/badge/Live-Demo-a78bfa?style=flat-square&logo=vercel)](https://www.hurcle.com/)
+
+**Stack:** `Node.js` `Express.js` `MongoDB` `Socket.io` `BullMq` ` Redis` `Google Map API`
 
 ---
 
