@@ -51,7 +51,6 @@ const danial = {
 
 ## 🚀 Featured Projects
 
-> _Replace the placeholders below with your actual projects._
 
 ### 📦 Hurcle.com
 > _Map-based social app with location posts and secure chats._
